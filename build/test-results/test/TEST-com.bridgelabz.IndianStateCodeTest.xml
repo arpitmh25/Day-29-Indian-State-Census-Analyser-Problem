@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.IndianStateCodeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-02-01T17:24:25" hostname="ARPIT" time="0.245">
+  <properties/>
+  <testcase name="givenWrongFileExtention_ShouldReturnWrongFileType()" classname="com.bridgelabz.IndianStateCodeTest" time="0.047"/>
+  <testcase name="givenWrongFileHeaders_ShouldReturnWrongHeader()" classname="com.bridgelabz.IndianStateCodeTest" time="0.022"/>
+  <testcase name="givenReadDataFromIndianCensus_ShouldReturnCountDataPresentInFile()" classname="com.bridgelabz.IndianStateCodeTest" time="0.17"/>
+  <testcase name="givenWrongFile_ShouldReturnFileNotFound()" classname="com.bridgelabz.IndianStateCodeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
